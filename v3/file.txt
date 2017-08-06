@@ -1,0 +1,2 @@
+Ubuntu features Unity, a reimagined way to use your computer. Unity is designed to minimize distractions, give you more room to work, and help you get things done.
+This guide is designed to answer your questions about using Unity and your Ubuntu desktop. First we will take a moment to look at some of Unity's key features, and how you can use them.
